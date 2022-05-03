@@ -5,15 +5,15 @@
   background-size: cover;
 }
 
-@media screen and (max-width: 1070px) {
-  .logo {
-    margin-left: 27px;
-  }
-}
-
-@media screen and (max-width: 427px) {
+@media screen and (max-width: 535px) {
   .logo {
     width: 103.74px;
     height: 24.4px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .logo {
+    margin-left: 27px;
   }
 }
