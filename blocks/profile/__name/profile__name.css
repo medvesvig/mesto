@@ -10,6 +10,7 @@
   font-size: 42px;
   line-height: 48px;
   grid-area: name;
+  transition: .7s ease;
 }
 
 @media screen and (max-width: 900px) {
