@@ -1,5 +1,5 @@
 const popup = document.querySelector ('.popup');
-const buttonEditOpen = document.querySelector ('.profile__button_act__edit');
+const buttonEditOpen = document.querySelector ('.profile__button_act_edit');
 const buttonClose = document.querySelector ('.popup__button_act_exit');
 const getName = document.querySelector ('.profile__name');
 const getJob = document.querySelector ('.profile__discription');
