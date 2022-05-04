@@ -1,4 +1,4 @@
-.profile__button_act__add {
+.profile__button_act_add {
   justify-self: flex-end;
   margin-left: auto;
   width: 150px;
@@ -9,21 +9,21 @@
 }
 
 @media screen and (max-width: 980px) {
-  .profile__button_act__add{
+  .profile__button_act_add{
     width: 20%;
     background-size: 16px;
   }
 }
 
 @media screen and (max-width: 685px) {
-  .profile__button_act__add {
+  .profile__button_act_add {
     width: 100%;
     margin-top: 36px;
   }
 }
 
 @media screen and (max-width: 350px) {
-  .profile__button_act__add {
+  .profile__button_act_add {
     width: 282px;
   }
 }
