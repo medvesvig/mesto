@@ -1,15 +1,15 @@
 .logo {
   background-image: url(../../images/header/logo.svg);
-  width: 142px;
-  height: 33px;
+  max-width: 142px;
+  min-height: 33px;
   background-size: cover;
   transition: .7s ease;
 }
 
 @media screen and (max-width: 535px) {
   .logo {
-    width: 103.74px;
-    height: 24.4px;
+    max-width: 103.74px;
+    min-height: 24.4px;
   }
 }
 
