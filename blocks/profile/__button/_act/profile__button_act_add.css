@@ -24,6 +24,6 @@
 
 @media screen and (max-width: 350px) {
   .profile__button_act_add {
-    width: 282px;
+    max-width: 282px;
   }
 }
